@@ -37,6 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 [x] Setup do banco
 [x] Seeding do banco (colocar dados)
-[] Introdução ao Next.js
-[]Tailwind e Shadcn
-[] Git Hooks
+[x] Introdução ao Next.js
+[x]Tailwind e Shadcn
+[x] Git Hooks
